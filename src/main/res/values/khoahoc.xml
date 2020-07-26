@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="khoahoc">
+        <item>Lập trình Java</item>
+        <item>Lập trình C/C++</item>
+        <item>Cơ sở dữ liệu</item>
+        <item>Lập trình Web</item>
+        <item>Công nghệ phần mềm</item>
+    </string-array>
+</resources>
